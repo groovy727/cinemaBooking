@@ -1,0 +1,2 @@
+[23-Dec-2016 06:46:00 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/phptpbyx/public_html/demo/sanojamovie/admin/logout.php on line 2
+[26-Dec-2016 04:37:13 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/phptpbyx/public_html/demo/sanojamovie/admin/logout.php on line 2
